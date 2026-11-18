@@ -1,5 +1,5 @@
 /* =========================================================
-   TERRITORY WAR — Android x iPhone (lives do TikTok)
+   TERRITORY WAR — Zelda x GTA VI (lives do TikTok)
    Canvas 1080x1920 (9:16) com fundo transparente para o OBS
    Tecla S = MODO SIMULAÇÃO (liga/desliga eventos falsos)
    Teclas extras: 1/2 chat, L curtida, R rosa, M meteoros,
