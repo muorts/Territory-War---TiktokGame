@@ -1,0 +1,18 @@
+{
+  "name": "territory-war-tiktok",
+  "version": "1.0.0",
+  "description": "Batalha de territórios GTA VI x Zelda Ocarina of Time para lives do TikTok",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@fontsource/rubik": "^5.3.0",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "socket.io": "^4.8.4",
+    "tiktok-live-connector": "^2.5.0"
+  }
+}
